@@ -1,0 +1,11 @@
+target/
+.vscode/
+.settings/
+.classpath
+.project
+.env
+application-local.properties
+import_users.sql
+subjectName.sql
+teachers_subjects.sql
+!.mvn/wrapper/maven-wrapper.jar
